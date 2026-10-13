@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "clipped-overflow-container",
+        "value": "*",
+        "files": [
+          "site/index.html"
+        ],
+        "createdAt": "2026-10-12T16:43:05.008Z",
+        "reason": "assistant: hero overflow:hidden only clips its own background image and veil for the zoom animation; no popovers inside"
+      }
+    ]
+  }
+}

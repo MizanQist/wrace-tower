@@ -1,0 +1,326 @@
+{
+ "L01": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 01.01",
+    "m2": 300.0,
+    "depth_m": 10.35
+   },
+   {
+    "name": "SUITE 01.02",
+    "m2": 500.0,
+    "depth_m": 9.92
+   },
+   {
+    "name": "SUITE 01.03",
+    "m2": 200.0,
+    "depth_m": 9.99
+   }
+  ]
+ },
+ "L02": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 02.01",
+    "m2": 300.0,
+    "depth_m": 9.82
+   },
+   {
+    "name": "SUITE 02.02",
+    "m2": 200.0,
+    "depth_m": 9.41
+   },
+   {
+    "name": "SUITE 02.03",
+    "m2": 500.0,
+    "depth_m": 10.37
+   }
+  ]
+ },
+ "L03": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 03.01",
+    "m2": 500.0,
+    "depth_m": 9.91
+   },
+   {
+    "name": "SUITE 03.02",
+    "m2": 200.0,
+    "depth_m": 10.07
+   },
+   {
+    "name": "SUITE 03.03",
+    "m2": 150.0,
+    "depth_m": 9.52
+   },
+   {
+    "name": "SUITE 03.04",
+    "m2": 150.0,
+    "depth_m": 9.41
+   }
+  ]
+ },
+ "L04": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 04.01",
+    "m2": 100.0,
+    "depth_m": 9.97
+   },
+   {
+    "name": "SUITE 04.02",
+    "m2": 200.0,
+    "depth_m": 10.14
+   },
+   {
+    "name": "SUITE 04.03",
+    "m2": 200.0,
+    "depth_m": 8.98
+   },
+   {
+    "name": "SUITE 04.04",
+    "m2": 500.0,
+    "depth_m": 10.27
+   }
+  ]
+ },
+ "L05": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 05.01",
+    "m2": 100.0,
+    "depth_m": 10.32
+   },
+   {
+    "name": "SUITE 05.02",
+    "m2": 500.0,
+    "depth_m": 9.64
+   },
+   {
+    "name": "SUITE 05.03",
+    "m2": 250.0,
+    "depth_m": 10.0
+   },
+   {
+    "name": "SUITE 05.04",
+    "m2": 150.0,
+    "depth_m": 10.35
+   }
+  ]
+ },
+ "L06": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 06.01",
+    "m2": 100.0,
+    "depth_m": 8.71
+   },
+   {
+    "name": "SUITE 06.02",
+    "m2": 500.0,
+    "depth_m": 10.4
+   },
+   {
+    "name": "SUITE 06.03",
+    "m2": 250.0,
+    "depth_m": 9.98
+   },
+   {
+    "name": "SUITE 06.04",
+    "m2": 150.0,
+    "depth_m": 9.76
+   }
+  ]
+ },
+ "L07": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 07.01",
+    "m2": 500.0,
+    "depth_m": 9.65
+   },
+   {
+    "name": "SUITE 07.02",
+    "m2": 150.0,
+    "depth_m": 10.56
+   },
+   {
+    "name": "SUITE 07.03",
+    "m2": 350.0,
+    "depth_m": 10.32
+   }
+  ]
+ },
+ "L08": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 08.01",
+    "m2": 200.0,
+    "depth_m": 9.9
+   },
+   {
+    "name": "SUITE 08.02",
+    "m2": 500.0,
+    "depth_m": 10.12
+   },
+   {
+    "name": "SUITE 08.03",
+    "m2": 300.0,
+    "depth_m": 9.88
+   }
+  ]
+ },
+ "L09": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 09.01",
+    "m2": 250.0,
+    "depth_m": 9.8
+   },
+   {
+    "name": "SUITE 09.02",
+    "m2": 150.0,
+    "depth_m": 10.02
+   },
+   {
+    "name": "SUITE 09.03",
+    "m2": 100.0,
+    "depth_m": 10.0
+   },
+   {
+    "name": "SUITE 09.04",
+    "m2": 500.0,
+    "depth_m": 10.29
+   }
+  ]
+ },
+ "L10": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 10.01",
+    "m2": 350.0,
+    "depth_m": 10.15
+   },
+   {
+    "name": "SUITE 10.02",
+    "m2": 500.0,
+    "depth_m": 9.79
+   },
+   {
+    "name": "SUITE 10.03",
+    "m2": 150.0,
+    "depth_m": 9.65
+   }
+  ]
+ },
+ "L11": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 11.01",
+    "m2": 200.0,
+    "depth_m": 9.7
+   },
+   {
+    "name": "SUITE 11.02",
+    "m2": 200.0,
+    "depth_m": 10.15
+   },
+   {
+    "name": "SUITE 11.03",
+    "m2": 500.0,
+    "depth_m": 10.18
+   },
+   {
+    "name": "SUITE 11.04",
+    "m2": 100.0,
+    "depth_m": 9.29
+   }
+  ]
+ },
+ "L12": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 12.01",
+    "m2": 200.0,
+    "depth_m": 9.97
+   },
+   {
+    "name": "SUITE 12.02",
+    "m2": 150.0,
+    "depth_m": 10.1
+   },
+   {
+    "name": "SUITE 12.03",
+    "m2": 500.0,
+    "depth_m": 10.0
+   },
+   {
+    "name": "SUITE 12.04",
+    "m2": 150.0,
+    "depth_m": 9.21
+   }
+  ]
+ },
+ "L13": {
+  "lettable": 1000.0,
+  "suites": [
+   {
+    "name": "SUITE 13.01",
+    "m2": 150.0,
+    "depth_m": 8.73
+   },
+   {
+    "name": "SUITE 13.02",
+    "m2": 100.0,
+    "depth_m": 8.65
+   },
+   {
+    "name": "SUITE 13.03",
+    "m2": 250.0,
+    "depth_m": 9.7
+   },
+   {
+    "name": "SUITE 13.04",
+    "m2": 500.0,
+    "depth_m": 10.4
+   }
+  ]
+ },
+ "L14": {
+  "zones": [
+   {
+    "name": "Office \u00b7 Suite 14.01",
+    "m2": 550.0
+   },
+   {
+    "name": "Gym hall",
+    "m2": 119.0
+   },
+   {
+    "name": "Lap pool and deck",
+    "m2": 240.0
+   },
+   {
+    "name": "Spa \u00b7 sauna \u00b7 steam",
+    "m2": 91.0
+   },
+   {
+    "name": "Lift lobby and circulation",
+    "m2": 123.0
+   }
+  ]
+ }
+}
